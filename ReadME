@@ -1,0 +1,23 @@
+# Automated Financial Data Ingestion, Reconciliation & VBA Reporting Tool
+
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
+[![Excel VBA](https://img.shields.io/badge/Excel-VBA%2FMacros-green.svg)](https://www.microsoft.com/excel)
+[![SQL](https://img.shields.io/badge/SQL-PostgreSQL%2FSQL%20Server-orange.svg)]()
+[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-e97627.svg)](https://www.tableau.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+**End-to-end automation solution** that ingests multi-source financial data (CSV feeds + SQL extracts), performs automated reconciliation & validation, and delivers analyst-ready Excel dashboards + Tableau workbooks for risk, credit, and portfolio analytics.
+
+---
+
+## 📌 Project Highlights
+
+| Area | What was delivered |
+|------|--------------------|
+| **Process Efficiency & VBA Automation** | Modular Excel VBA macros + Python ingestion scripts that automated recurring daily/weekly data aggregation from internal CSV feeds and SQL database extracts, eliminating manual spreadsheet formatting. |
+| **Data Discrepancy & Reconciliation Engine** | Automated cross-source validation checks that flag reconciliation discrepancies, balance mismatches, and data-type violations across multi-source financial tables **before** downstream ratings generation. |
+| **Tableau & Excel Research Visualizations** | Tableau workbooks and dynamic Excel dashboards mapping KPIs, risk-weighted asset (RWA) distributions, and portfolio credit migration matrices for quantitative analysts. |
+
+---
+
+## 🏗️ Architecture Overview
