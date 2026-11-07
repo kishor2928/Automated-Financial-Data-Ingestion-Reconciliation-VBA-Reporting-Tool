@@ -1,0 +1,8 @@
+kpi,value,format
+Total Positions,25.0,number
+Matched,21.0,number
+Breaks,1.0,number
+Missing Balance,3.0,number
+Match Rate,0.84,pct
+Total Market Value,81545000.0,currency
+Total Notional,84150000.0,currency

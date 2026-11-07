@@ -1,0 +1,11 @@
+rating,product,position_count,total_notional,total_rwa,avg_risk_weight
+A,Corporate Bond,7,21200000,10600000.0,0.5
+A,Equity,2,2900000,1450000.0,0.5
+AA,Sovereign,2,12000000,2400000.0,0.2
+AAA,Sovereign,4,31000000,0.0,0.0
+B,Corporate Bond,1,3500000,7000000.0,2.0
+BB,Corporate Bond,3,5400000,8100000.0,1.5
+BBB,Corporate Bond,2,3750000,3750000.0,1.0
+BBB,Equity,2,2900000,2900000.0,1.0
+CCC,Corporate Bond,1,1000000,3000000.0,3.0
+INVALID,Corporate Bond,1,500000,1250000.0,2.5
